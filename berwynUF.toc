@@ -1,0 +1,14 @@
+## Interface: 60000
+## Title: berwynUF
+## Author: berwyn
+## Version: 1.0
+## Notes: oUF layout
+## X-Email: berwyn.codeweaver@gmail.com
+
+vendor\oUF\oUF.xml
+
+core\config.lua
+core\core.lua
+
+unit\player.lua
+unit\target.lua
